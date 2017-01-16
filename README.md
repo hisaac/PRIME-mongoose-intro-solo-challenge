@@ -1,4 +1,9 @@
 # Sigma Mongoose Intro
+
+This was our first interaction with MongoDB and Mongoose.
+
+---
+
 An overview for today's Mongoose lecture.
 
 We are starting with an application that will run and serve our
